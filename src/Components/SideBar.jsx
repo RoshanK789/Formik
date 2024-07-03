@@ -4,12 +4,12 @@ import { Link } from "react-router-dom";
 const SideBar = () => {
   return (
    <>
-   <div> <nav className=" navbar-expand-lg flex-column border sidebar">
+   <div> <nav className=" navbar-expand-lg flex-column  sidebar">
 <div>
 <div >  <button className="navbar-toggler bg-danger " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
   <span className="navbar-toggler-icon "></span>
 </button>
-<div className="collapse navbar-collapse sidebar" id="navbarNav">
+<div className="collapse navbar-collapse " id="navbarNav">
 
 <ul className="navbar-nav flex-column p-5 ">
 
