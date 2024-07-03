@@ -1,0 +1,24 @@
+.error
+{
+  color:red;
+}
+nav a{
+  text-decoration:none;
+  padding: 5px;
+  color: aliceblue;
+}
+.Link
+{
+  color: Black !important;
+}
+
+ul li{
+  text-decoration: none !important;
+  
+}
+.sidebar
+{
+  background-color: rgb(189, 220, 247);
+  font-weight: bold;
+  height:100%;
+}
